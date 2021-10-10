@@ -6,12 +6,12 @@
  "title": "Вайп был 00x00x0000",
  "url": "https://vk.com/desirerust133",
  "is_external_url": true,
- "author": "Deko and Desire",
+ "author": "Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/anime_girl_gothic_eyes_red_15108_1280x1024.jpg[/img]
 В данный момент, сервер настраивается, так же как и группа.
 Но если вам скучно и интересно, можете заранее скачать клиент игры
-vk.cc/c6NK4i - [Yandex Disk] 🛸
-vk.cc/c6NKgg - [Google Disk] 🛸",
+vk.cc/c6NK4i - (Yandex Disk) 🛸
+vk.cc/c6NKgg - (Google Disk) 🛸",
  "feedlabel": "Community Announcements",
  "date": 1633870598,
  "айпи": "45.136.204.27", 
