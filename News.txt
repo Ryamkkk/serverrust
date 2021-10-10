@@ -8,13 +8,10 @@
  "is_external_url": true,
  "author": "Deko and Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/wallpapersden.com_nezuko-demon-slayer_wxl.jpg[/img]
- Рейты на добычу X3
- Рейты на опыт X3
- Донат магазин desirepro.gamestores.ru
- Промокод Wipe
- Карта Barren
- Размер 2300
- Следующий вайп xx.xx.xxxx",
+В данный момент, сервер настраивается, так же как и группа.
+Но если вам скучно и интересно, можете заранее скачать клиент игры
+vk.cc/c6NK4i - [Yandex Disk] 🛸
+vk.cc/c6NKgg - [Google Disk] 🛸",
  "feedlabel": "Community Announcements",
  "date": 1633870598,
  "айпи": "45.136.204.27", 
