@@ -9,14 +9,14 @@
  "author": "Deko and Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/wallpapersden.com_nezuko-demon-slayer_wxl.jpg[/img]
  Рейты на добычу X3
- \nРейты на опыт X3
- \nДонат магазин desirepro.gamestores.ru
- \nПромокод Wipe
- \nКарта Barren
- \nРазмер 2300
- \nСледующий вайп xx.xx.xxxx",
+ Рейты на опыт X3
+ Донат магазин desirepro.gamestores.ru
+ Промокод Wipe
+ Карта Barren
+ Размер 2300
+ Следующий вайп xx.xx.xxxx",
  "feedlabel": "Community Announcements",
- "date": 1623312944,
+ "date": 1633870598,
  "айпи": "45.136.204.27", 
  "feedname": "steam_community_announcements",
  "feed_type": 1,
@@ -30,14 +30,14 @@
  "author": "Deko and Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/wallpapersden.com_nezuko-demon-slayer_wxl.jpg[/img]
  Рейты на добычу X3
- \nРейты на опыт X3
- \nДонат магазин desirepro.gamestores.ru
- \nПромокод Wipe
- \nКарта Barren
- \nРазмер 2300
- \nСледующий вайп 1.1.1111",
+ Рейты на опыт X3
+ Донат магазин desirepro.gamestores.ru
+ Промокод Wipe
+ Карта Barren
+ Размер 2300
+ Следующий вайп 1.1.1111",
  "feedlabel": "Community Announcements",
- "date": 1623312944,
+ "date": 1633870598,
  "айпи": "45.136.204.27", 
  "feedname": "steam_community_announcements",
  "feed_type": 1,
