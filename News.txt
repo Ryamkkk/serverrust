@@ -7,7 +7,7 @@
  "url": "https://vk.com/desirerust133",
  "is_external_url": true,
  "author": "Desire",
- "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/lVWNY04Nllc.jpg[/img]
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/photo_2021-07-06_23-00-45.jpg[/img]
 [RU] Desire RUST #1 [BARREN | TRIO]
  — Пиратский сервер стоит на Rust - 133 Devblog ☠
  — Рейты сервера:
