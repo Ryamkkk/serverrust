@@ -25,7 +25,7 @@
   
  — IP:Port сервера: connect 45.136.204.27:28015",
  "feedlabel": "Community Announcements",
- "date": 1633888399,
+ "date": 1633936391,
  "айпи": "45.136.204.27", 
  "feedname": "steam_community_announcements",
  "feed_type": 1,
