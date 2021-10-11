@@ -8,6 +8,32 @@
  "is_external_url": true,
  "author": "Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/photo_2021-07-06_23-00-45.jpg[/img]
+Всем доброго дня, простите за задержку по вайпу :с
+
+Воспроизведен глобальный WIPE - [RU] Desire RUST #1.
+Ознакомитесь с правилами сервера! -> vk.com/@desirerust133-pravila-servera
+Скачать клиент -> https://vk.com/wall-207525359_7
+IP: connect 45.136.204.27:28015
+
+Промокод: 0x0x0x0x0x0x0 - NULL. [Магазин ещё настраивается, так что без промо, простите :с]
+Игровой магазин -> Soon...
+
+Приятной Вам игры на проекте Desire RUST!
+[Если у вас, крашит клиент. То пробуйте запустить от имени админа!]",
+ "feedlabel": "Community Announcements",
+ "date": 1633936391,
+ "айпи": "45.136.204.27", 
+ "feedname": "steam_community_announcements",
+ "feed_type": 1,
+ "appid": 252490 
+ },
+{ 
+"gid": 2543829635484,
+ "title": "Информация о сервере!",
+ "url": "https://vk.com/desirerust133",
+ "is_external_url": true,
+ "author": "Desire",
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/photo_2021-07-06_23-00-45.jpg[/img]
 [RU] Desire RUST #1 [BARREN | TRIO]
  — Пиратский сервер стоит на Rust - 133 Devblog ☠
  — Рейты сервера:
@@ -26,27 +52,6 @@
  — IP:Port сервера: connect 45.136.204.27:28015",
  "feedlabel": "Community Announcements",
  "date": 1633936391,
- "айпи": "45.136.204.27", 
- "feedname": "steam_community_announcements",
- "feed_type": 1,
- "appid": 252490 
- },
-{ 
- "gid": 1283752944101,
- "title": "Вайп был 00x00x0000",
- "url": "https://vk.com/desirerust133",
- "is_external_url": true,
- "author": "Deko and Desire",
- "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/wallpapersden.com_nezuko-demon-slayer_wxl.jpg[/img]
- Рейты на добычу X3
- Рейты на опыт X3
- Донат магазин desirepro.gamestores.ru
- Промокод Wipe
- Карта Barren
- Размер 2300
- Следующий вайп 1.1.1111",
- "feedlabel": "Community Announcements",
- "date": 1633870598,
  "айпи": "45.136.204.27", 
  "feedname": "steam_community_announcements",
  "feed_type": 1,
