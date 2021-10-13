@@ -8,7 +8,7 @@
  "url": "https://vk.com/desirerust133",
  "is_external_url": true,
  "author": "Desire",
- "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/bIH-jDATLbE.jpg[/img]
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/maxresdefault.jpg[/img]
 Всем доброго времени, немного новостей.
 
 — Когда будет вайп, и что будет изменено?
