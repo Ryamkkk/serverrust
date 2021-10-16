@@ -8,7 +8,7 @@
  "url": "https://vk.com/desirerust133",
  "is_external_url": true,
  "author": "Андрей Иванов",
- "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/BONK%20(2).png[/img]
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/BONK1.png[/img]
 Воспроизведен глобальный WIPE - [RU] Desire RUST #1.
 
 Вам нужно перекачать патч игры с заменой!!!
