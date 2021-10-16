@@ -7,6 +7,34 @@
  "title": "Информация о сервере!",
  "url": "https://vk.com/desirerust133",
  "is_external_url": true,
+ "author": "Андрей Иванов",
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/wkIN6HNlMNg.jpg[/img]
+Воспроизведен глобальный WIPE - [RU] Desire RUST #1.
+
+Вам нужно перекачать патч игры с заменой!!!
+
+— В обновлении патча, пофиксил следующее.
+├ Fix compass, [До этого и за /team он мог переместиться в право]
+├ Обновлении отображение тимейтов через /team [Более красивее]
+├ Изменена заставка загрузки в игру на другую [Всем она понравилась]
+└ Fix несколько багов.
+
+IP: connect 45.136.204.27:28015
+Игровой магазин -> desire.gamestores.ru
+
+Приятной Вам игры на проекте Desire RUST!",
+ "feedlabel": "Community Announcements",
+ "date": 1634391839,
+ "айпи": "45.136.204.27", 
+ "feedname": "steam_community_announcements",
+ "feed_type": 1,
+ "appid": 252490 
+ },
+ { 
+ "gid": 2543829635484,
+ "title": "Информация о сервере!",
+ "url": "https://vk.com/desirerust133",
+ "is_external_url": true,
  "author": "Desire",
  "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/maxresdefault.jpg[/img]
 Всем доброго времени, немного новостей.
