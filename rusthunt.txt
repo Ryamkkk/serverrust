@@ -9,7 +9,7 @@
  "url": "https://vk.com/huntpub",
  "is_external_url": true,
  "author": "HUNT",
- "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/BONK1.png[/img]
+ "информация": "[img]https://github.com/DeftSolutions-dev/serverrust/raw/main/maxresdefault.jpg[/img]
 Всем здарова , уже на следующем вайпе глобальное обновление сервера !
 Будет много чего интересного , от нового оформление до новых , уникальных плагинов !
 
