@@ -1,1 +1,1 @@
-{"ManifestVersion":3, "Servers":{"Modded":[{"Address":"195.18.27.252","Port":8080,"Tags":""}], "Banned":["138.124.186.114"] }}
+{"ManifestVersion":3, "Servers":{"Official":[{"Address":"195.18.27.252","Port":8080,"Tags":""}], "Banned":["138.124.186.114"] }}
